@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @Emiliorocky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Emiliorocky/Emiliorocky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 loadstring(game:HttpGet(“https://raw.githubusercontent.com/StormSKz12/StirkeHub1/main/Gameincluded”))()
 loadstring(game:HttpGet”https://raw.githubusercontent.com/HULKUexe/Free—Script/main/3GAME”)()
 (getgenv()).Config = {
